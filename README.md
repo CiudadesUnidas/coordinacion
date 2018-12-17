@@ -4,20 +4,24 @@ En las Ciudades Unidas estamos comprometidos a descentralizar las decisiones, po
 
 El principio rector de un coordinador se basa en el concepto de "Jerarquías dinámicas por consentimiento".
 
-**Jerarquías**, por que es necesario guiar a ciertas personas y roles con cierto poder y responsabilidad, para que se ejecuten las funciones y actividades que se acuerdan en cada ciudad. La palabra "jerarquías" la manejamos como plural por que nunca es una sola, son muchas que se van creando a través del tiempo, cada una con un propósto específico.
+**Jerarquías**, por que es necesario guiar a personas y roles con cierto poder y responsabilidad, para que se ejecuten las funciones y actividades que se acuerdan en cada ciudad. La palabra "jerarquías" la manejamos como plural por que nunca es una sola, son muchas que se van creando a través del tiempo, cada una con un propósto específico en cada ciudad.
 
-**Dinámicas**, porque los roles de las personas y las estructuras internas de cada ciudad se mantienen en constante evolución y las adaptamos para cumplir nuestros objetivos. 
+**Dinámicas**, porque los roles de las personas y las estructuras internas se mantienen en constante evolución y las adaptamos de forma responsable para cumplir nuestros objetivos. 
 
-**Por consentimiento**, por que todo el poder de un coordinador, recae en todos los integrantes de una ciudad, juntos. Es decir, todos nosotros.
+**Por consentimiento**, por que todo el poder de un coordinador, proviene del consentimiento de los integrantes de una ciudad. Es decir, de todos nosotros.
 
 ### El rol de un coordinador
 
-* **Delegar** - Muchas de las responsabilidades de un coordinador son ejecutadas por otras personas. No pueden ni deben ejecutarlas todas ellos mismos.
+* **Delegar** - Muchas de las responsabilidades de un coordinador son ejecutadas por otras personas. No pueden ni deben ejecutar todas las responsabilidades ellos mismos.
 
-* **Síntesis** - 
+* **Síntesis** - Los coordinadores conversan con diferentes personas, se sensibilizan de temas emergentes, aseguran la comunicación entre los mismos ciudadanos y enriquecen el entendimiento colectivo.
 
-Juicio
+* **Juicio** - Empoderamos a los coordinadores de una ciudad con nuestra confianza para que tomen decisiones, como tiempos para ejecutar planes, priorizar y definir cuando un trabajo es o no es suficientemente bueno.
 
-Habilidad
+* **Capacidad de respuesta** - Los coordinadores mantienen reservado un margen de capacidad para responder a casos urgentes y no planeados. Si algo no cae en la responsabilidad de alguien más, es reponsabilidad del coordinador definir quién le debe dar seguimiento.
 
-Contexto
+* **Habilidad** - Debido a la gran responsabilidad, ser coordinador está reservado para gente con habilidades genernciales y experiencia en el manejo de proyectos (manejo de alcance, recursos y tiempos). 
+
+* **Contexto** - Le pedimos a los coordinadores que presten mucha atención a las condiciones en las que todos ciudadanos estamos colaborando y que constantemente nos ayuden a mejorarlas. No sólo es acerca de hacer las cosas que se tienen que hacer, también es acerca del contexto en el que se hacen.
+
+
