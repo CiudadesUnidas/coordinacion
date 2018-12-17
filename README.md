@@ -1,5 +1,5 @@
 
-# Coordinador
+# Coordinador de una ciudad
 En las Ciudades Unidas estamos comprometidos a descentralizar las decisiones, por esta razón la organización no opera a través de una estructura gerárquica tradicional. Sin embargo, la visión global de todo lo relacionado con una ciudad y el desarrollo de una visión compartida entre las diferentes áreas que la integran, es esencial para el cumplimiento de nuestro objetivo. En las Ciudades Unidas, a este rol se le llama coordinador. 
 
 Asi mismo, al principio rector del coordinador de una ciudad le llamamos "Jerarquías dinámicas por consentimiento".
